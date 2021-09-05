@@ -7,30 +7,30 @@ summary of content.
 
 Week 1:
 
-1-Basic circuits.
+1-Basic circuits
 
-2-Simple algorithms.
+2-Simple algorithms
 
-3-Noise in quantum computers.
+3-Noise in quantum computers
 
-4-Classic machine learning.
+4-Classic machine learning
 
-5-Quantum Classifier.
+5-Quantum Classifier
 
-6-QAOA.
+6-QAOA
 
 
 Week 2:
 
-1-Linear classifiers.
+1-Linear classifiers
 
-2-Quantum Kernel.
+2-Quantum Kernel
 
-3-Quantum Circuit Training.
+3-Quantum Circuit Training
 
-4-Hardware and noise.
+4-Hardware and noise
 
-5-Advanced capability and circuits.
+5-Advanced capability and circuits
 
-6-Closing and discussions on future directions.
+6-Closing and discussions on future directions
 
